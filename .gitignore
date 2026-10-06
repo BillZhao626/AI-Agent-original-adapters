@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+*.out
+*.vcd
+*.log
+*.jou
+CRC/dataset/
+CRC/coverage/
+CRC/matlab/
+CRC/vivado/project/
+CRC/vivado/results/
